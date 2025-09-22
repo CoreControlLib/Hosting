@@ -3,9 +3,9 @@
   "component": {
     "group": "com.andreidurlea",
     "module": "corecontrol",
-    "version": "0.1.0-SNAPSHOT",
+    "version": "1.0.0-alpha",
     "attributes": {
-      "org.gradle.status": "integration"
+      "org.gradle.status": "release"
     }
   },
   "createdBy": {
@@ -33,8 +33,8 @@
       ],
       "files": [
         {
-          "name": "corecontrol-0.1.0-SNAPSHOT.aar",
-          "url": "corecontrol-0.1.0-SNAPSHOT.aar",
+          "name": "corecontrol-1.0.0-alpha.aar",
+          "url": "corecontrol-1.0.0-alpha.aar",
           "size": 121492,
           "sha512": "e3a6c3ebcb49f86c375a0ba687d19ab521308510ddacbb36d8cf72ad47d6e67a256e6a03cdb2cba54a02033c02606bae3be0ff7268b5f700b309983617faf57c",
           "sha256": "5ac4da7bc8328cb36fd1a68d98e6d211e5a4a55466213f0e8baafc0722091280",
@@ -139,8 +139,8 @@
       ],
       "files": [
         {
-          "name": "corecontrol-0.1.0-SNAPSHOT.aar",
-          "url": "corecontrol-0.1.0-SNAPSHOT.aar",
+          "name": "corecontrol-1.0.0-alpha.aar",
+          "url": "corecontrol-1.0.0-alpha.aar",
           "size": 121492,
           "sha512": "e3a6c3ebcb49f86c375a0ba687d19ab521308510ddacbb36d8cf72ad47d6e67a256e6a03cdb2cba54a02033c02606bae3be0ff7268b5f700b309983617faf57c",
           "sha256": "5ac4da7bc8328cb36fd1a68d98e6d211e5a4a55466213f0e8baafc0722091280",
@@ -162,8 +162,8 @@
       },
       "files": [
         {
-          "name": "corecontrol-0.1.0-SNAPSHOT-sources.jar",
-          "url": "corecontrol-0.1.0-SNAPSHOT-sources.jar",
+          "name": "corecontrol-1.0.0-alpha-sources.jar",
+          "url": "corecontrol-1.0.0-alpha-sources.jar",
           "size": 78111,
           "sha512": "168b1618a7c8e5a01eb6697ad0c6ec282065c1da78825ae9ac82084c2728319b392c37023bcb507fd372dd548c3db33d855544a141768b291fee7efe16957ecf",
           "sha256": "4f944a28daa09943f375f1c5aaef2784c134df1d5c1244051a5e8c268bfa169e",
